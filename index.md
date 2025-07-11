@@ -1,5 +1,6 @@
 ---
 layout: index
+title: FSCD 2026@Lisbon
 description: 11<sup>th</sup> International Conference on Formal Structures for Computation and Deduction <br>20 - 23 July 2026
 ---
 
