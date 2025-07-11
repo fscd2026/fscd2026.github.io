@@ -1,0 +1,16 @@
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240910-30573-g5nk0t.rb extconf.rb
+creating Makefile
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240910-30573-sc480j

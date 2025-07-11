@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+    <main class="my-4">
+        <div class="container">
+            <h1 class="display-5">{{ title }}</h1>
+            {{ content }}
+            {% if site.data.participants %}
+            <hr class="my-4">
+            <p>WoLLIC 2025 is proudly supported by:</p>
+            {% assign groups = site.data.sponsors.groups %}
+            {% for group in groups %}
+            {% if group.title %}
+            <h5 class="fw-bold">{{ group.title }}</h5>
+            {% endif %}
+            {% if group.columns %}
+            {% assign div = ' id="roster"' %}
+            {% else %}
+            {% assign div = '' %}
+            {% endif %}
+            <div align="center">
+                {% if group.sort %}
+                {% assign members = group.members | sort_natural: 'name' %}
+                {% else %}
+                {% assign members = group.members %}
+                {% endif %}
+                {% for member in members %}
+                <a target="_blank" href="{{ member.url }}"><img width="300px" alt="{{ member.name }}" src="/{{ member.logo }}"/></a>
+                </figure>
+                {% endfor %}
+            </div>
+            {% endfor %}
+            {% endif %}
+        </div>
+    </main>
+
+    {% include footer.html %}

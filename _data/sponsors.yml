@@ -1,0 +1,16 @@
+groups:
+  - title:
+    columns: true
+    members:
+    - name: Universidade do Porto
+      logo: up_logo.png
+      width : 
+      url: https://www.up.pt/portal/en/
+    - name: LIACC
+      logo: liacc_logo.png
+      url: https://liacc.fe.up.pt/liaccwp/
+    - name: CMUP
+      logo: cmup_logo.png
+      url: https://www.cmup.pt/
+    
+      

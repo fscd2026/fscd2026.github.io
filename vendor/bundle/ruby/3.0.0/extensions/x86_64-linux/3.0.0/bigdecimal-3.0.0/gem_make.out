@@ -1,0 +1,187 @@
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.0.0/ext/bigdecimal
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240910-30573-h49yw4.rb extconf.rb
+checking RUBY_BIGDECIMAL_VERSION... 3.0.0
+checking for labs() in stdlib.h... yes
+checking for llabs() in stdlib.h... yes
+checking for finite() in math.h... yes
+checking for isfinite() in math.h... no
+checking for struct RRational in ruby.h... no
+checking for rb_rational_num() in ruby.h... yes
+checking for rb_rational_den() in ruby.h... yes
+checking for struct RComplex in ruby.h... no
+checking for rb_complex_real() in ruby.h... yes
+checking for rb_complex_imag() in ruby.h... yes
+checking for rb_array_const_ptr() in ruby.h... yes
+checking for rb_sym2str() in ruby.h... yes
+checking for rb_opts_exception_p() in ruby.h... yes
+checking for rb_category_warn() in ruby.h... yes
+checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
+creating Makefile
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.0.0/ext/bigdecimal
+make DESTDIR\= clean
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.0.0/ext/bigdecimal
+make DESTDIR\=
+compiling bigdecimal.c
+bigdecimal.c: In function ‘GetVpValueWithPrec’:
+bigdecimal.c:249:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  249 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_prec’:
+bigdecimal.c:372:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  372 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_precision’:
+bigdecimal.c:405:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  405 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_n_significant_digits’:
+bigdecimal.c:456:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  456 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_hash’:
+bigdecimal.c:490:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  490 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_dump’:
+bigdecimal.c:519:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  519 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_load’:
+bigdecimal.c:541:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  541 |     ENTER(2);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_to_i’:
+bigdecimal.c:861:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  861 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_to_f’:
+bigdecimal.c:908:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+  908 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_coerce’:
+bigdecimal.c:1001:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1001 |     ENTER(2);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_add’:
+bigdecimal.c:1058:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1058 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_sub’:
+bigdecimal.c:1116:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1116 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimalCmp’:
+bigdecimal.c:1157:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1157 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_neg’:
+bigdecimal.c:1353:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1353 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_mult’:
+bigdecimal.c:1379:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1379 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_divide’:
+bigdecimal.c:1407:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1407 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_div’:
+bigdecimal.c:1449:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1449 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_DoDivmod’:
+bigdecimal.c:1472:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1472 |     ENTER(8);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_mod’:
+bigdecimal.c:1560:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1560 |     ENTER(3);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_divremain’:
+bigdecimal.c:1573:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1573 |     ENTER(10);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_divmod’:
+bigdecimal.c:1658:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1658 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_div2’:
+bigdecimal.c:1674:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1674 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_add2’:
+bigdecimal.c:1754:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1754 |     ENTER(2);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_sub2’:
+bigdecimal.c:1784:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1784 |     ENTER(2);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_mult2’:
+bigdecimal.c:1802:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1802 |     ENTER(2);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_abs’:
+bigdecimal.c:1829:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1829 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_sqrt’:
+bigdecimal.c:1851:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1851 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_fix’:
+bigdecimal.c:1870:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1870 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_round’:
+bigdecimal.c:1909:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1909 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_truncate’:
+bigdecimal.c:1980:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 1980 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_frac’:
+bigdecimal.c:2009:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2009 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_floor’:
+bigdecimal.c:2040:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2040 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_ceil’:
+bigdecimal.c:2087:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2087 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_to_s’:
+bigdecimal.c:2146:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2146 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_split’:
+bigdecimal.c:2241:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2241 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_inspect’:
+bigdecimal.c:2290:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2290 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_power’:
+bigdecimal.c:2433:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2433 |     ENTER(5);
+      |     ^~~~~
+bigdecimal.c: In function ‘f_BigDecimal’:
+bigdecimal.c:2875:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2875 |     ENTER(1);
+      |     ^~~~~
+bigdecimal.c: In function ‘BigDecimal_s_interpret_loosely’:
+bigdecimal.c:2895:5: warning: ‘maybe_unused’ attribute ignored [-Wattributes]
+ 2895 |     ENTER(1);
+      |     ^~~~~
+linking shared-object bigdecimal.so
+
+current directory: /home/jmr/git/wollic2025.github.io/vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.0.0/ext/bigdecimal
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20240910-30573-yuyn2m

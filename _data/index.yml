@@ -1,0 +1,32 @@
+alerts:
+    # - title: The PC is out!
+    # text: 
+    # color: green-1
+  # - title: Abstracts Deadline - 17 February 2025
+  #   # text: 
+  #   color: green-1
+  # - title: Full Papers Deadline - 24 February 2025
+  #   # text:
+  #   color: blue-1
+  # - title: Author Notifications - 12 May 2025
+  #   # text:
+  #   color: green-1
+  # - title: The list of Accepted Papers is out!
+  #   color: green-2
+  # - title: Registration is OPEN!
+  #   color: green-1
+buttons:
+  # - text: programme committee
+  #   url: /committees
+  #   disabled: false
+  # - text: submissions
+  #   url: https://easychair.org/account2/signin_timeout?l=7697538079004804242
+  #   disabled: false
+  - text: student grants
+    url: https://aslonline.org/student-travel-awards/
+    disabled: false
+  - text: registration
+    url: https://forms.gle/GKzvG4vTCEcxhgpS6
+    disbled: false
+  
+  
