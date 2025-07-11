@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: map
 title: Location
 description: Overview of conference locations
@@ -22,4 +22,4 @@ We **recommend** taking [**metro line E**](https://www.metrodoporto.pt/metrodopo
 
 You can find the location of the airport, all relevant metro and bus stations, and the venue on the map below. In order to navigate around the city center, we recommend using your favorite GPS navigation app.
 
-For further information, please contact one of the local organizers (after the map).
+For further information, please contact one of the local organizers (after the map). -->

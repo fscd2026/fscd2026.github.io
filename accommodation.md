@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: accommodation
 title: Accommodation
 description: Suggested accommodations
@@ -30,4 +30,4 @@ navorder: 5
 
 - Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/).
 
-
+ -->

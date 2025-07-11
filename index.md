@@ -1,24 +1,14 @@
 ---
 layout: index
-description: 31<sup>st</sup> Workshop on Logic, Language, Information and Computation <br>14 - 17 July 2025
+description: 11<sup>th</sup> International Conference on Formal Structures for Computation and Deduction <br>20 - 23 July 2026
 ---
 
-<img alt='Porto.' style='height: 100%; width: 100%; object-fit: contain' src='porto.avif'/>
-
-WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The 31<sup>st</sup> WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.
-
-## REGISTRATION
-
-Registration is **open** [here](https://forms.gle/GKzvG4vTCEcxhgpS6)!
-
-- Registration fees:
-    - Regular: 360 euros
-    - Student: 310 euros
-
-This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day.
+<img alt='Lisbon' style='height: 100%; width: 100%; object-fit: contain' src=''/>
+The 11th FSCD (International Conference on Formal Structures for Computation and Deduction) will be held in Lisbon, Portugal, 20 - 23 July, 2026, as part of [FlOC](https://www.floc26.org/).
 
 ## INVITED SPEAKERS
-<ul>
+TBA
+<!-- <ul>
     <div>
     <input type="checkbox" id="abstract-two">
     <li> <a href="https://tobias.kap.pe/index.html">Tobias Kappé</a> (Leiden University) <em>On propositional program equivalence</em>.</li>
@@ -68,69 +58,12 @@ This includes the WoLLIC reception on 14 July, and the conference dinner on 16 J
           et al.</p>
     </div>
     </div>
-</ul>
+</ul> -->
 
 ## PROGRAM
-
-Click [here](/program) for the Program.
+TBA
 
 ## ACCEPTED PAPERS
+ TBA
 
-The list of accepted papers can be found [here](/accepted).
 
-## FORMAT
-
-WoLLIC 2025 will be an **onsite** event.
-
-## ORGANIZATION
-
-- [Department of Computer Science](https://www.dcc.fc.up.pt/site/), [Faculty of Sciences](https://www.up.pt/fcup/en/), [University of Porto](https://www.up.pt/portal/en/), [Portugal](https://en.wikipedia.org/wiki/Portugal)
-- [Center of Informatics](https://portal.cin.ufpe.br/), [Federal University of Pernambuco](https://www.ufpe.br/), [Brazil](https://en.wikipedia.org/wiki/Brazil)
-
-## SCOPE
-
-Contributions are invited on all pertinent subjects, with particular interest in cross-disciplinary topics. Typical but not exclusive areas of interest are: 
-
-- non-classical logics;
-- foundations of computing, programming and Artificial Intelligence (AI);
-- novel computation models and paradigms;
-- broad notions of proof and belief;
-- proof mining, type theory, effective learnability and explainable AI; 
-- formal methods in software and hardware development;
-- logical approach to natural language and reasoning;
-- logics of programs, actions and resources;
-- foundational aspects of information organization, search, flow, sharing and protection; 
-- foundations of mathematics;
-- philosophical logic;
-- and philosophy of language.
-
-## PROCEEDINGS
-
-The proceedings of WoLLIC 2025, including both invited and contributed papers, will be published in advance of the meeting as a volume in **Springer's LNCS series**. In addition, abstracts will be published in the Conference Report section of the **Logic Journal of the IGPL**, and selected contributions will be published (after a new round of reviewing) as special post-conference WoLLIC 2025 issue of a **scientific journal** (TBC).
-
-## STUDENT GRANTS
-
-ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **modest travel grant**. The **deadline** is 90 days before the event starts. See [this page](https://aslonline.org/student-travel-awards/) for details.
-
-## IMPORTANT DATES
-
-| **Abstracts Deadline** | | 17 February 2025 |
-| **Full Papers Deadline** | | 24 February 2025 |
-| **Author Notification** | | 12 May 2025 |
-| **Camera-Ready Version** | &nbsp;&nbsp;&nbsp; | 26 May 2025 |
-| **Workshop Dates** | | 14-17 July 2025 |
-| | | |
-
-## SUBMISSIONS
-
-Proposed contributions should be in English, and consist of a scholarly exposition accessible to the non-specialist, including motivation, background, and comparison with related works. Articles should be written in the LaTeX format of **LNCS by Springer** (see author's instructions [here](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)). They must not exceed **12 pages**, with up to **5 additional pages** for **references and technical appendices**. The paper's main results must not be published or submitted for publication in refereed venues, including journals and other scientific meetings. It is expected that each accepted paper be presented at the meeting by one of its authors in person. (At least one author is required to pay a full, on-site registration fee before granting that the paper will be published in the proceedings.) Papers must be submitted electronically at the [WoLLIC 2025 EasyChair website](https://easychair.org/conferences/?conf=wollic2025).
-
-## SCIENTIFIC SPONSORSHIP
-
-- Interest Group in Pure and Applied Logics (IGPL)
-- The Association for Logic, Language and Information (FoLLI) 
-- Association for Symbolic Logic (ASL)
-- European Association for Theoretical Computer Science (EATCS)
-- European Association for Computer Science Logic (EACSL)
-- Sociedade Brasileira de Lógica (SBL)
-- Sociedade Portuguesa de Lógica (SPL)
