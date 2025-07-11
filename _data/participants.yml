@@ -3,169 +3,20 @@ groups:
     sort: false
     columns: false
     members:
-      - name: Dexter
-        surname: Kozen (Chair)
-        # email: 
-        affil: Cornell University
-      - name: Juan 
-        surname: Aguilera
-        affil: TU Wien 
-      - name: Natasha
-        surname: Alechina
-        affil: Utrecht University
-      - name: Maria
-        surname: Aloni
-        affil: University of Amsterdam
-      - name: Steve
-        surname: Awodey
-        affil: Carnegie Mellon University
-      - name: Dana
-        surname: Bartosova
-        affil: University of Florida
-      - name: Marta
-        surname: Bilkova
-        affil: Institute of Computer Science, Czech Academy of Sciences
-      - name: Katalin
-        surname: Bimbo
-        affil: University of Alberta
-      - name: Francesca
-        surname: Zaffora Blando
-        affil: Carnegie Mellon University
-      - name: Mikolaj
-        surname: Bojanczyk
-        affil: University of Warsaw
-      # - name: Xavier
-      #   surname: Caicedo
-      #   affil: Universidad de los Andes
-      - name: Hans
-        surname: van Ditmarsch
-        affil: University of Toulouse, CNRS, IRIT
-      - name: Amy
-        surname: Felty
-        affil: University of Ottawa
-      - name: Santiago
-        surname: Figueira
-        affil: University of Buenos Aires
-      - name: Pietro
-        surname: Galliani
-        affil: University of Insubria
-      - name: Sam
-        surname: van Gool
-        affil: IRIF, Université Paris Cité
-      - name: Marie
-        surname: Kerjean
-        affil: LIPN, Université Sorbonne Paris Nord
-      - name: Dorel
-        surname: Lucanu
-        affil: Alexandru Ioan Cuza University
-      - name: Radu
-        surname: Mardare
-        affil: Heriot-Watt University
-      - name: Wim
-        surname: Martens
-        affil: University of Bayreuth
-      - name: Jose
-        surname: Meseguer
-        affil: University of Illinois Urbana-Champaign
-      - name: Anca
-        surname: Muscholl
-        affil: LaBRI, Université Bordeaux
-      - name: Alessandra
-        surname: Palmigiano
-        affil: Vrije Universiteit Amsterdam
-      - name: R.
-        surname: Ramanujam
-        affil: Institute of Mathematical Sciences, Chennai
-      - name: Peter
-        surname: Selinger
-        affil: Dalhousie University
-      - name: Michael
-        surname: Shulman
-        affil: University of San Diego
-      - name: Sonja
-        surname: Smets
-        affil: ILLC, University of Amsterdam
-      - name: Andres
-        surname: Villaveces
-        affil: Universidad Nacional de Colombia
+     TBA
   - title: Organizing Commitee
     columns: false
     members:
-      - name: Mário
-        surname: Florido (Co-Chair)
-        email: amflorid@fc.up.pt
-        affil: University of Porto
       - name: Sandra
-        surname: Alves (Co-Chair)
+        surname: Alves (Local Chair)
         email: sandra@fc.up.pt
         affil: University of Porto
-      - name: João
-        surname: Barbosa
-        email: joao.barbosa@fc.up.pt
-        affil: University of Porto
-      - name: Sabine
-        surname: Broda
-        email: sbbroda@fc.up.pt
-        affil: University of Porto
-      - name: Anjolina
-        surname: de Oliveira
-        # email: amflorid@fc.up.pt
-        affil: Federal University of Pernambuco
-      - name: Ruy
-        surname: de Queiroz
-        # email: amflorid@fc.up.pt
-        affil: Federal University of Pernambuco
-      - name: Miguel
-        surname: Ramos
-        email: jmr@fc.up.pt
-        affil: University of Porto
+      - name: Cynthia 
+        surname: Kop (FSCD Workshop Chair)
+        email: 
+        affil: 
   - title: Steering Committee
     columns: false
     members:
-      - name: Samson 
-        surname: Abramsky
-      - name: Agata 
-        surname: Ciabattoni
-      - name: Anuj 
-        surname: Dawar
-      - name: Helle 
-        surname: Hvid Hansen
-      - name: Juliette 
-        surname: Kennedy
-      - name: Ulrich 
-        surname: Kohlenbach
-      - name: Daniel 
-        surname: Leivant
-      - name: Leonid 
-        surname: Libkin
-      - name: Lawrence 
-        surname: Moss
-      - name: Luke 
-        surname: Ong
-      - name: Valeria 
-        surname: de Paiva
-      - name: Elaine 
-        surname: Pimentel
-      - name: Ruy 
-        surname: de Queiroz
-      - name: Andre 
-        surname: Scedrov
-      - name: Alexandra
-        surname: Silva
-      - name: Renata
-        surname: Wassermann 
-  - title: Advisory Committee
-    columns: false
-    members:
-      - name: Johan 
-        surname: van Benthem
-      - name: Joe 
-        surname: Halpern
-      - name: Wilfrid
-        surname: Hodges
-      - name: Angus
-        surname: Macintyre
-      - name: Hiroakira
-        surname: Ono
-      - name: Jouko
-        surname: Väänänen
+     
+  
