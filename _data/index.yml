@@ -22,11 +22,11 @@ buttons:
   # - text: submissions
   #   url: https://easychair.org/account2/signin_timeout?l=7697538079004804242
   #   disabled: false
-  - text: student grants
-    url: https://aslonline.org/student-travel-awards/
-    disabled: false
-  - text: registration
-    url: https://forms.gle/GKzvG4vTCEcxhgpS6
-    disbled: false
+  # - text: student grants
+  #   url: https://aslonline.org/student-travel-awards/
+  #   disabled: false
+  # - text: registration
+  #   url: https://forms.gle/GKzvG4vTCEcxhgpS6
+  #   disbled: false
   
   
