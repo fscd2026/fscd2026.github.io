@@ -1,8 +1,8 @@
-title: WoLLIC 2025 @ Porto.
-description: 31th Workshop on Logic, Language, Information and Computation 14 - 17 July 2025
+title: FSCD 2026 @ Lisbon.
+description: 11th International Conference on Formal Structures for Computation and Deduction 20 - 23 July 2026
 
 baseurl: 
-url: https://wollic2025.github.io
+url: https://fscd2026.github.io
 
 permalink: pretty
 theme: jekyll-nagymaros
