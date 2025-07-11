@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: default
-title: WoLLIC Series
-description: WoLLIC Series
-redirect: http://wollic.org
+title: FSCD Series
+description: FSCD Series
+redirect: https://fscd-conference.org
 navorder: 7
---- -->
+--- 
