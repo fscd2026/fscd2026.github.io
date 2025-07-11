@@ -3,7 +3,7 @@ layout: index
 description: 11<sup>th</sup> International Conference on Formal Structures for Computation and Deduction <br>20 - 23 July 2026
 ---
 
-<img alt='Lisbon' style='height: 100%; width: 100%; object-fit: contain' src=''/>
+<img alt='Lisbon' style='height: 100%; width: 100%; object-fit: contain' src='Lisboa.jpg'/>
 The 11th FSCD (International Conference on Formal Structures for Computation and Deduction) will be held in Lisbon, Portugal, 20 - 23 July, 2026, as part of [FlOC](https://www.floc26.org/).
 
 ## INVITED SPEAKERS
