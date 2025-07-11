@@ -19,7 +19,6 @@ TBA
     swapped, as long as its condition is negated --- regardless of what the
     branches or condition look like. Such propositional program equivalences are
     useful to verify that a refactoring operation preserves program semantics.</p>
-
     <p>Kleene Algebra with Tests (KAT) has proven to be a very powerful framework for
     verifying propositional program equivalences, either through manual equational
     reasoning or by automated equivalence checking. In recent years, the focus has
@@ -27,12 +26,10 @@ TBA
     closely, known as Guarded KAT (GKAT). GKAT has a rich equational theory, which
     can be used to prove many useful equivalences between imperative programs.
     What's more, GKAT equivalences can be checked mechanically and efficiently.</p>
-
     <p>We will survey recent advances surrounding GKAT. Topics discussed include both
     positive and negative results about GKAT's expressivity, logical completeness,
     extensions, and decision procedures, as well as connections to decompilation
     and a conjecture of Milner that was recently resolved.</p>
-
     <p>This talk will cover joint work with Balder ten Cate, Justin Hsu, Nate Foster,
     Dexter Kozen, David E. Narváez, Nico Naus, Wojciech Różowski, Todd Schmid,
     Alexandra Silva, Steffen Smolka, and Cheng Zhang.</p>
