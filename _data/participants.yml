@@ -3,7 +3,94 @@ groups:
     sort: false
     columns: false
     members:
-     
+     - name: Alejandro 
+       surname: Díaz-Caro
+       email: 
+       affil: INRIA (LORIA) & UNQuilmes, France & Argentina
+     - name: Alexis 
+       surname: Saurin
+       email: 
+       affil: CNRS & University Paris Cité, France
+     - name: 
+       surname: Alwen Tiu
+       email: 
+       affil: Australian National University, Australia
+     - name: Andreas 
+       surname: Abel 
+       email: 
+       affil: Chalmers University of Technology & University of Gothenburg, Sweden
+     - name: Andreia
+       surname: Mordido
+       email: 
+       affil: University of Lisbon, Portugal
+     - name: Beniamino
+       surname: Accattoli 
+       email: 
+       affil: INRIA & École Polytechnique, France
+     - name: Cynthia
+       surname: Kop
+       email: 
+       affil: Radboud University Nijmegen, The Netherlands
+     - name: Daniel
+       surname: Gratzer
+       email: 
+       affil: Aarhus University, Denmark
+     - name: Dominic
+       surname: Orchard
+       email: 
+       affil: University of Kent & University of Cambridge, UK
+     - name: Elaine
+       surname: Pimentel
+       email: 
+       affil: University College London, UK
+     - name: Kristina
+       surname: Sojakova
+       email: 
+       affil: Free University of Amsterdam, The Netherlands
+     - name: Kwangkeun
+       surname: Yi
+       email: 
+       affil: Seoul National University, Korea
+     - name: Liron
+       surname: Cohen
+       email: 
+       affil: Ben-Gurion University, Israel
+     - name: Małgorzata
+       surname: Biernacka
+       email: 
+       affil: University of Wrocław, Poland
+     - name: Nao
+       surname: Hirokawa
+       email: 
+       affil: JAIST, Japan
+     - name: Natarajan
+       surname: Shankar
+       email: 
+       affil: SRI International, USA
+     - name: Niki
+       surname: Vazou
+       email: 
+       affil: IMDEA Madrid, Spain
+     - name: Paul
+       surname: Downen 
+       email: 
+       affil: UMass Lowell, USA
+     - name: Peter
+       surname: Selinger
+       email: 
+       affil: Dalhousie University, Canada
+     - name: Salvador
+       surname: Lucas
+       email: 
+       affil: Technical University of Valencia, Spain
+     - name: Sarah
+       surname: Winkler
+       email: 
+       affil: Free University of Bozen-Bolano, Italy
+     - name: Ugo 
+       surname: Dal Lago
+       email: 
+       affil: University of Bologna, Italy     
   - title: Organizing Commitee
     columns: false
     members:
