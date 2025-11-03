@@ -1,4 +1,4 @@
--- ---
+---
 layout: call-for-paper
 title: Call for Papers
 description: Call for papers
