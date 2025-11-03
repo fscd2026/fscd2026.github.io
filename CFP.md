@@ -1,9 +1,10 @@
 ---
 layout: call-for-papers
-title: Call for Papers
+title: Call-for-Papers
 description: Call for papers
 navorder: 2
 ---
+
 # IMPORTANT DATES
 
 _All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered._
