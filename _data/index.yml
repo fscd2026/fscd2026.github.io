@@ -1,7 +1,7 @@
 alerts:
-  - title: The PC is out!
+  - title: The Call-for-Papers is out!
     text: 
-    color: green-1
+    color: blue-1
   # - title: Abstracts Deadline - 17 February 2025
   #   # text: 
   #   color: green-1
