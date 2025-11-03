@@ -1,8 +1,8 @@
 ---
-layout: call-for-paper
+layout: call-for-papers
 title: Call for Papers
 description: Call for papers
-navorder: 5
+navorder: 2
 ---
 # IMPORTANT DATES
 
