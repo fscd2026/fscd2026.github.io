@@ -16,9 +16,9 @@ alerts:
   # - title: Registration is OPEN!
   #   color: green-1
 buttons:
-  # - text: programme committee
-  #   url: /committees
-  #   disabled: false
+  - text: programme committee
+    url: /committees
+    disabled: false
   # - text: submissions
   #   url: https://easychair.org/account2/signin_timeout?l=7697538079004804242
   #   disabled: false
