@@ -1,4 +1,12 @@
 groups:
+ - title: Programme Committee Chair
+    sort: false
+    columns: false
+    members:
+     - name: Frank
+       surname: Pfenning
+       email: 
+       affil: Carnegie Mellon University
   - title: Programme Committee
     sort: false
     columns: false
