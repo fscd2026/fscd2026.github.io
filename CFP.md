@@ -93,7 +93,7 @@ There will be a special issue of **Logical Methods in Computer Science** of sele
 The submission site is:  
 👉 [https://submissions.floc26.org/fscd/](https://submissions.floc26.org/fscd/)
 
-Submissions must be formatted using the [LIPIcs style files](https://submission.dagstuhl.de/series/details/5#author) and submitted via EasyChair.
+Submissions must be formatted using the [LIPIcs style files](https://submission.dagstuhl.de/series/details/5#author) and submitted via HotCRP.
 
 Submissions can be made in two categories: **regular research papers** and **system descriptions**. Please indicate in the submission page in HotCRP and on the first page of the paper which category you are submitting.
 
