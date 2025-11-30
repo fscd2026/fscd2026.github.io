@@ -2,10 +2,10 @@ alerts:
   #- title: The Call-for-Papers is out!
   #  text: 
   #  color: blue-1
-  - title: Abstracts Deadline - 17 February 2025
+  - title: Abstracts Deadline - January 23, 2026
     text: 
     color: green-1
-  - title: Full Papers Deadline - 24 February 2025
+  - title: Full Papers Deadline - January 30, 2026
     text:
     color: blue-1
   # - title: Author Notifications - 12 May 2025
