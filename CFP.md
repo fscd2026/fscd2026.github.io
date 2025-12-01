@@ -148,7 +148,7 @@ FSCD 2026 stands by the [FLoC 2026 Code of Conduct](https://www.floc26.org/polic
 - Paul Downen — UMass Lowell, USA  
 - Peter Selinger — Dalhousie University, Canada  
 - Salvador Lucas — Technical University of Valencia, Spain  
-- Sarah Winkler — Free University of Bozen-Bolano, Italy  
+- Sarah Winkler — Free University of Bozen-Bolzano, Italy  
 - Ugo Dal Lago — University of Bologna, Italy  
 
 ---
