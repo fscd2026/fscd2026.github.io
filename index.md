@@ -11,8 +11,12 @@ The 11th FSCD (International Conference on Formal Structures for Computation and
 <ul>
     <div>
     <input type="checkbox" id="abstract-two">
-    <li> <a href="">Laura Kovács</a> (Vienna University of Technology - TU Wien) </li>
+    <li> <a href="https://lkovacs.com">Laura Kovács</a> (Vienna University of Technology - TU Wien) </li>
     </div>
+    <div>
+    <input type="checkbox" id="abstract-one">
+    <li> <a href="https://www.andrej.com/en/">Andrej Bauer</a> (University of Ljubljana) 
+    </li></div>
     <!-- <em>On propositional program equivalence</em>.</li>
     <label for="abstract-two" class="link-like">&#11167;&nbsp;<em>Show Abstract</em></label>
     <div class="read-more">
