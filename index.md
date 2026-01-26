@@ -53,6 +53,4 @@ TBA
 ## In co-operation
 FSCD 2026 is organised in co-operation with SIGLOG and SIGPLAN
 
-<img alt='ACM' style='height: 100%; width: 30%; object-fit: contain' src='ACM.jpg'/>
-<img alt='SIGLOG' style='height: 100%; width: 30%; object-fit: contain' src='SIGLOG.png'/>
-<img alt='SIGPLAN' style='height: 100%; width: 30%; object-fit: contain' src='sigplan.png'/>
+<img alt='ACM' style='height: 100%; width: 33%; object-fit: contain' src='ACM.jpg'/>| <img alt='SIGLOG' style='height: 100%; width: 33%; object-fit: contain' src='SIGLOG.png'/>|<img alt='SIGPLAN' style='height: 100%; width: 33%; object-fit: contain' src='sigplan.png'/>
