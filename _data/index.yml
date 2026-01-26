@@ -2,9 +2,9 @@ alerts:
   #- title: The Call-for-Papers is out!
   #  text: 
   #  color: blue-1
-  - title: Abstracts Deadline - January 23, 2026
-    text: 
-    color: green-1
+  # - title: Abstracts Deadline - January 23, 2026
+  #  text: 
+  #  color: green-1
   - title: Full Papers Deadline - January 30, 2026
     text:
     color: blue-1
@@ -15,10 +15,10 @@ alerts:
   #   color: green-2
   # - title: Registration is OPEN!
   #   color: green-1
-buttons:
-  - text: programme committee
-    url: /committees
-    disabled: false
+  #buttons:
+  # - text: programme committee
+  #  url: /committees
+  #  disabled: false
   # - text: submissions
   #   url: https://easychair.org/account2/signin_timeout?l=7697538079004804242
   #   disabled: false
