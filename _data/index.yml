@@ -5,12 +5,12 @@ alerts:
   # - title: Abstracts Deadline - January 23, 2026
   #  text: 
   #  color: green-1
-  - title: Full Papers Deadline - January 30, 2026
+  # - title: Full Papers Deadline - January 30, 2026
+  #  text:
+  #  color: blue-1
+  - title: Author Notifications - 12 May 2025
     text:
-    color: blue-1
-  # - title: Author Notifications - 12 May 2025
-  #   # text:
-  #   color: green-1
+    color: green-1
   # - title: The list of Accepted Papers is out!
   #   color: green-2
   # - title: Registration is OPEN!
