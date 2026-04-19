@@ -1,6 +1,0 @@
-<!-- ---
-layout: program
-title: Program
-description: Schedule of talks and activities
-navorder: 8
---- -->
