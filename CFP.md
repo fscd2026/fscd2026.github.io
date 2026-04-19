@@ -2,7 +2,7 @@
 layout: call-for-papers
 title: Call-for-Papers
 description: Call for papers
-navorder: 1
+navorder: 2
 ---
 
 # IMPORTANT DATES
