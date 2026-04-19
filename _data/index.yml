@@ -8,13 +8,13 @@ alerts:
   # - title: Full Papers Deadline - January 30, 2026
   #  text:
   #  color: blue-1
-  - title: Author Notifications - April 16, 2026
-    text:
-    color: green-1
+  #- title: Author Notifications - April 16, 2026
+  #  text:
+  #  color: green-1
   # - title: The list of Accepted Papers is out!
   #   color: green-2
-  # - title: Registration is OPEN!
-  #   color: green-1
+  - title: Registration is OPEN!
+    color: blue-1
   #buttons:
   # - text: programme committee
   #  url: /committees
@@ -25,8 +25,8 @@ alerts:
   # - text: student grants
   #   url: https://aslonline.org/student-travel-awards/
   #   disabled: false
-  # - text: registration
-  #   url: https://forms.gle/GKzvG4vTCEcxhgpS6
-  #   disbled: false
+  - text: registration
+    url: https://www.floc26.org/registration
+    disabled: false
   
   
