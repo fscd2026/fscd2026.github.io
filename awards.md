@@ -2,7 +2,7 @@
 layout: awards
 title: Awards
 description: Awards
-navorder: 3
+navorder: 6
 ---
 ## BEST PAPER AWARD BY JUNIOR RESEARCHERS
 
