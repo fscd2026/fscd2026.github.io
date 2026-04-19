@@ -15,7 +15,7 @@ alerts:
   #   color: green-2
   - title: Registration is OPEN! Early bird rates end on 15 May.
     color: blue-1
-  buttons:
+buttons:
   # - text: programme committee
   #  url: /committees
   #  disabled: false
