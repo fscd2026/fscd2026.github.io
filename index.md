@@ -3,7 +3,6 @@ layout: index
 title: FSCD 2026@Lisbon
 description: 11<sup>th</sup> International Conference on Formal Structures for Computation and Deduction <br>20 - 23 July 2026
 ---
-
 <img alt='Lisbon' style='height: 100%; width: 100%; object-fit: contain' src='Lisboa.jpg'/>
 The 11th FSCD (International Conference on Formal Structures for Computation and Deduction) will be held in Lisbon, Portugal, 20 - 23 July, 2026, as part of [FLoC](https://www.floc26.org/).
 
@@ -54,4 +53,4 @@ TBA
 
 FSCD 2026 is organised in co-operation with ACM SIGLOG and SIGPLAN
 
-<img alt='ACM' style='height: 100%; width: 33%; object-fit: contain' src='ACM.jpg'/> <img alt='SIGLOG' style='height: 100%; width: 33%; object-fit: contain' src='SIGLOG.png'/> <img alt='SIGPLAN' style='height: 100%; width: 33%; object-fit: contain' src='sigplan.png'/>
+<img alt='ACM' style='height: 100%; width: 25%; object-fit: contain' src='ACM.jpg'/> <img alt='SIGLOG' style='height: 100%; width: 25%; object-fit: contain' src='SIGLOG.png'/> <img alt='SIGPLAN' style='height: 100%; width: 25%; object-fit: contain' src='sigplan.png'/>
