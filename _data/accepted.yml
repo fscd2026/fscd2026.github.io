@@ -79,4 +79,69 @@ papers:
      authors:
        - name: Olivier Laurent
        - name: Jui-Hsuan Wu
-   
+   - title: Undecidability for semirings with fixed points
+     authors:
+       - name: Anupam Das
+       - name: Abhishek De
+       - name: Stepan L. Kuznetsov
+   - title: Divide and Check&#58 Logical Relations, No Algorithms Attached
+     authors:
+       - name: Josselin Poiret
+       - name: Kenji Maillard
+       - name: Nicolas Tabareau 
+   - title: Denotational semantics for stabiliser quantum programs
+     authors:
+       - name: Cole Comfort
+       - name: Robert Booth
+   - title: Stable Profunctors and Matrix Representation
+     authors:
+       - name: Takeshi Tsukada
+       - name: Kazuyuki Asada
+       - name: Kengo Hirata
+   - title: Proof Identity and Categorical Models of BV
+     authors:
+       - name: Matteo Acclavio
+       - name: Lutz Strassburger
+       - name: Vladimir Zamdzhiev
+   - title: Relational Dualities and Bisimulation
+     authors:
+       - name: Piotr Kozicki
+       - name: G. A. Kavvos     
+   - title:  Equational Reasoning in Languages with Binders via Permutation Fixed-Points
+     authors:
+       - name: Ali K. Caires-Santos
+       - name: Maribel Fernández
+       - name: Murdoch James Gabbay
+       - name: Daniele Nantes-Sobrinho
+   - title:  Quantum Bayesian Networks&#58 Compositionality and Typing via Linear Logic
+     authors:
+       - name: Remi Di Guardia
+       - name: Thomas Ehrhard
+       - name: Claudia Faggian
+   - title: The Universal Property of Petri Net Unfoldings
+     authors:
+       - name: Serge Lechenne
+       - name: Hugo Paquet
+   - title: On the consistency of naive set theories over substructural and fuzzy logics
+     authors:
+       - name: Kazushige Terui
+   - title:  Evidence-Tracked Tape Semantics for Probabilistic Computation
+     authors:
+       - name: Liron Cohen
+       - name: Tomer Samara
+   - title: Ground Stratified Inductive Definitions
+     authors:
+       - name: Nathan Guermond
+       - name: Gopalan Nadathur
+   - title:  New and Formalized Proofs for Right-Forward Closures and Core Matrix Interpretations
+     authors:
+       - name: René Thiemann
+       - name: Dieter Hofbauer
+       - name: Ulysse Le Huitouze
+       - name: Johannes Waldmann
+   - title: Treating congruences as equalities within proofs
+     authors:
+       - name: Dale Miller
+   - title: The Equational Theory of Relational Kleene Algebra with Graph Loop is PSPACE-Complete
+     authors:
+       - name: Yoshiki Nakamura
