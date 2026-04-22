@@ -4,4 +4,48 @@ papers:
        - name: Kostia Chardonnet
        - name: Jules Chouquet
        - name: Axel Kerinec
-
+   - title: A Bounded Parallel Intersection Type System
+     authors:
+       - name: Andrej Dudenhefner
+       - name: Aleksy Schubert
+       - name: Jakob Rehof
+   - title: Simpler Presentations for Many Fragments of Quantum Circuits
+     authors:
+       - name: Colin BLAKE
+   - title: Graphical Symplectic Algebra
+     authors:
+       - name: Robert I. Booth
+       - name: Titouan Carette
+       - name: Cole Comfort
+   - title: Resource-Aware Quantum Programming with General Recursion and Quantum Control
+     authors:
+       - name: Kostia Chardonnet
+       - name: Emmanuel Hainry
+       - name: Romain Péchoux
+       - name: Thomas Vinet
+   - title: Constructing (Co)inductive Types via Large Sizes
+     authors:
+       - name: Bastiaan Laarakker
+       - name: Daniël Otten
+       - name: Benno van den Berg
+   - title: How Term Rewriting Structures Shape the Decidability of Knowledge Problems
+     authors:
+       - name: Raja Damanik
+       - name: Alwen Tiu
+   - title: Investigations on Higher-Order Infinitary Logic
+     authors:
+       - name: Thomas Traversié
+       - name: Olivier Hermant
+       - name: Marc Aiguier 
+   - title: Type Theory with Erasure
+     authors:
+       - name: Constantine Theocharis
+       - name: Edwin Brady
+   - title: Absolute convergence and Taylor expansion in web based models of linear logic
+     authors:
+       - name: Christine Tasson 
+       - name: Aymeric Walch
+   - title:  Strong Normalisation for Asynchronous Effects
+     authors:
+       - name: Danel Ahman
+       - name: Ilja Sobolev
