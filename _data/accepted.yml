@@ -145,3 +145,10 @@ papers:
    - title: The Equational Theory of Relational Kleene Algebra with Graph Loop is PSPACE-Complete
      authors:
        - name: Yoshiki Nakamura
+   - title:  Sheaves as Oracle Computations (Invited Talk)
+     authors:
+       - name: Danel Ahman
+       - name: Andrej Bauer
+   - title: Saturation-Guided Inductive Synthesis (Invited Talk)
+     authors:
+       - name: Laura Kovács    
