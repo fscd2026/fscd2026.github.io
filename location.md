@@ -1,5 +1,5 @@
 ---
-layout: awards
+layout: venue
 title: Venue
 description: Overview of conference locations
 navorder: 4
