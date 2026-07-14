@@ -45,10 +45,10 @@ The 11th FSCD (International Conference on Formal Structures for Computation and
 </ul> 
 
 ## PROGRAM
-TBA
+The full program for FSCD is available [here](https://program.floc26.org/FSCD-index).
 
 ## ACCEPTED PAPERS
- TBA
+The list of accepted paper is available [here](https://fscd2026.github.io/accepted/).
 ## In co-operation
 
 FSCD 2026 is organised in co-operation with ACM SIGLOG and SIGPLAN
