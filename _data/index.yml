@@ -11,10 +11,10 @@ alerts:
   #- title: Author Notifications - April 16, 2026
   #  text:
   #  color: green-1
-  - title: The list of Accepted Papers is out!
-    color: green-2
-  - title: Registration is OPEN! Early bird rates end on 15 May.
-    color: blue-1
+  #- title: The list of Accepted Papers is out!
+  #  color: green-2
+  #- title: Registration is OPEN! Early bird rates end on 15 May.
+  #  color: blue-1
 buttons:
   # - text: programme committee
   #  url: /committees
