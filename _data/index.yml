@@ -25,6 +25,6 @@ buttons:
   # - text: student grants
   #   url: https://aslonline.org/student-travel-awards/
   #   disabled: false
-  - text: REGISTRATION
-    url: https://www.floc26.org/registration
-    disabled: false
+  #- text: REGISTRATION
+  #  url: https://www.floc26.org/registration
+  #  disabled: false
