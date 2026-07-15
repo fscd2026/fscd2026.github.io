@@ -49,6 +49,14 @@ The full program for FSCD is available [here](https://program.floc26.org/FSCD-in
 
 ## ACCEPTED PAPERS
 The list of accepted paper is available [here](https://fscd2026.github.io/accepted/).
+
+## BUSINESS MEETING
+
+The FSCD business meeting is on Wednesday 22th July at 16:00-17:00. It includes the election of new Steering Committee members, with the following candidates standing:
+
+* Malgorzata Biernacka - [Election statement]()
+* Takeshi Tsukada - [Election statement]()
+
 ## In co-operation
 
 FSCD 2026 is organised in co-operation with ACM SIGLOG and SIGPLAN
