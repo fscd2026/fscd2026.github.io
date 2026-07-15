@@ -50,6 +50,13 @@ The full program for FSCD is available [here](https://program.floc26.org/FSCD-in
 ## ACCEPTED PAPERS
 The list of accepted paper is available [here](https://fscd2026.github.io/accepted/).
 
+## STREAM VIA ZOOM
+
+We are pleased to announce that FSCD 2026 will offer free best-effort 
+virtual participation via Zoom. The stream will cover the main conference, including the business meeting (without voting rights), but not the workshops nor the FLoC keynote talks.
+
+In order to access the Zoom link, please register your email in advance [here](https://forms.gle/uoD94EMHbRA6nDhQ6).
+
 ## BUSINESS MEETING
 
 The FSCD business meeting is on Wednesday 22th July at 16:00-17:00. It includes the election of new Steering Committee members, with the following candidates standing:
