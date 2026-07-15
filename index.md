@@ -54,8 +54,8 @@ The list of accepted paper is available [here](https://fscd2026.github.io/accept
 
 The FSCD business meeting is on Wednesday 22th July at 16:00-17:00. It includes the election of new Steering Committee members, with the following candidates standing:
 
-* Malgorzata Biernacka - [Election statement]()
-* Takeshi Tsukada - [Election statement]()
+* Malgorzata Biernacka - [Election statement](malgorzata-biernacka-bio-en.pdf)
+* Takeshi Tsukada - [Election statement](fscd-sc-statement-tsukada.pdf)
 
 ## In co-operation
 
