@@ -50,6 +50,9 @@ The full program for FSCD is available [here](https://program.floc26.org/FSCD-in
 ## ACCEPTED PAPERS
 The list of accepted paper is available [here](https://fscd2026.github.io/accepted/).
 
+## PROCEEDINGS
+The proceedings volume of FSCD 2026 is now officially published as volume 378 of LIPIcs and available [here](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-378).
+
 ## STREAM VIA ZOOM
 
 We are pleased to announce that FSCD 2026 will offer free best-effort 
